@@ -1,0 +1,2230 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-07T20:53:46.538Z",
+  "sellerUrl": "https://www.kufar.by/user/O39Xj81561pL2PEn4D5CBd8",
+  "categories": [
+    {
+      "id": "t-shirts",
+      "label": "Футболки и майки",
+      "count": 5
+    },
+    {
+      "id": "hoodies",
+      "label": "Худи и толстовки",
+      "count": 6
+    },
+    {
+      "id": "jeans-pants",
+      "label": "Джинсы и брюки",
+      "count": 2
+    },
+    {
+      "id": "jackets",
+      "label": "Куртки и пуховики",
+      "count": 13
+    },
+    {
+      "id": "sweatshirts",
+      "label": "Свитшоты и кофты",
+      "count": 0
+    },
+    {
+      "id": "shoes",
+      "label": "Обувь",
+      "count": 1
+    },
+    {
+      "id": "accessories",
+      "label": "Сумки и аксессуары",
+      "count": 5
+    },
+    {
+      "id": "other",
+      "label": "Другое",
+      "count": 0
+    }
+  ],
+  "hotPicks": [
+    {
+      "productId": "product-009",
+      "score": 33,
+      "reason": "Подборка по полноте карточки: 8 фото, категория «Куртки и пуховики»"
+    },
+    {
+      "productId": "product-017",
+      "score": 27.96,
+      "reason": "Подборка по полноте карточки: 7 фото, категория «Джинсы и брюки»"
+    },
+    {
+      "productId": "product-021",
+      "score": 18.06,
+      "reason": "Подборка по полноте карточки: 4 фото, категория «Худи и толстовки»"
+    },
+    {
+      "productId": "product-030",
+      "score": 18,
+      "reason": "Подборка по полноте карточки: 3 фото, категория «Футболки и майки»"
+    },
+    {
+      "productId": "product-027",
+      "score": 12.45,
+      "reason": "Подборка по полноте карточки: 3 фото, категория «Обувь»"
+    },
+    {
+      "productId": "product-025",
+      "score": 7.27,
+      "reason": "Подборка по полноте карточки: 1 фото, категория «Сумки и аксессуары»"
+    },
+    {
+      "productId": "product-005",
+      "score": 30,
+      "reason": "Подборка по полноте карточки: 7 фото, категория «Куртки и пуховики»"
+    },
+    {
+      "productId": "product-012",
+      "score": 20.16,
+      "reason": "Подборка по полноте карточки: 5 фото, категория «Джинсы и брюки»"
+    }
+  ],
+  "products": [
+    {
+      "id": "product-001",
+      "sourceId": "b6f63af4ac0e",
+      "slug": "пуховик-мужская-зимняя-куртка-nike-sportswear-storm-fit-adidas-acg-mon-product-001",
+      "sourceUrl": "https://www.kufar.by/item/1088242543",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088242543",
+      "title": "Пуховик мужская зимняя Куртка Nike sportswear Storm-FIT (Adidas, ACG, moncler, Polo, Cortez)",
+      "price": {
+        "amount": 159,
+        "currency": "BYN",
+        "raw": "159 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Куртка утепленная выполнена из водоотталкивающего стеганого текстиля с искусственным утеплителем. Детали: застежка на молнии, воротник-стойка, несъемный капюшон, 2 кармана на молнии.Вышитый логотип.",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/a8ce791c-b194-44d0-b153-63aecd0ad809.jpg",
+          "localPath": "images/product-001/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 22663
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/0a2a47bd-d1f7-436a-9e13-c7e386e91776.jpg",
+          "localPath": "images/product-001/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 37104
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/64a4119f-2114-4e4c-944a-9488c4c0cf32.jpg",
+          "localPath": "images/product-001/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 34489
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/e800bfc9-2bac-4c23-8578-6dcacab2ced8.jpg",
+          "localPath": "images/product-001/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 41033
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/ef408361-550e-4f98-9c58-d4904c201d47.jpg",
+          "localPath": "images/product-001/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 42229
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/27db7295-9553-46a5-8599-c02b9e2292fc.jpg",
+          "localPath": "images/product-001/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 50833
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/4099ee03-4af7-4d8b-86b0-b8d8e84e615d.jpg",
+          "localPath": "images/product-001/07.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 31727
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/a8ce791c-b194-44d0-b153-63aecd0ad809.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/0a2a47bd-d1f7-436a-9e13-c7e386e91776.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/64a4119f-2114-4e4c-944a-9488c4c0cf32.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/e800bfc9-2bac-4c23-8578-6dcacab2ced8.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/ef408361-550e-4f98-9c58-d4904c201d47.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/27db7295-9553-46a5-8599-c02b9e2292fc.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/4099ee03-4af7-4d8b-86b0-b8d8e84e615d.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:32:47.056Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-002",
+      "sourceId": "ad90fd3c7a24",
+      "slug": "пуховик-мужская-зимняя-куртка-polo-ralph-lauren-adidas-nike-acg-moncle-product-002",
+      "sourceUrl": "https://www.kufar.by/item/1088250680",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088250680",
+      "title": "Пуховик мужская зимняя Куртка Polo Ralph Lauren (Adidas, Nike, ACG, moncler, cav empt, Cortez)",
+      "price": {
+        "amount": 159,
+        "currency": "BYN",
+        "raw": "159 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Куртка Polo — классика стиля и надежное качество для повседневного использования. Эта модель идеально подойдет для тех, кто ценит элегантность и комфорт в любой сезон.Материал: прочная и приятная на ощупь ткань, устойчивая к ветру и легкому дождю.Утепление: оптимальное для прохладной погоды — легкий утеплитель, сохраняющий тепло без лишнего веса.Дизайн: минималистичный и стильный, с характерным логотипом Polo — всадник с клюшкой, который придает изделию статусность и узнаваемость.Капюшон: на некоторых моделях регулируемый капюшон для дополнительной защиты от непогоды.Карманы: удобные карманы для хранения мелочей или согрева рук.Застежка: надежная молния с кнопками или липучками для дополнительной фиксации.Качество: высококлассное исполнение, аккуратные швы и долговечные материалы.Преимущества:Элегантный классический дизайн с фирменными акцентами.Хорошая защита от ветра и холода.Универсальность — отлично подходит как для города, так и для активного отдыха.Долговечность и комфорт в носке.",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/8c4becc7-1e12-400e-af53-96cfef74d7b1.jpg",
+          "localPath": "images/product-002/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 21355
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/45e1cf3e-f4cc-4755-9e75-93ace9d482fd.jpg",
+          "localPath": "images/product-002/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 44426
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/4833715e-23eb-4cc9-99cf-b3ecc36497d9.jpg",
+          "localPath": "images/product-002/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 42868
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/2375a597-0dd1-4454-aa74-31ae05df7905.jpg",
+          "localPath": "images/product-002/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 45567
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/ebbde864-d3c7-4da5-816f-76cd3e0f6479.jpg",
+          "localPath": "images/product-002/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 54917
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/3e0bb4e3-8282-4632-8b9b-595d7a82fcbd.jpg",
+          "localPath": "images/product-002/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 43364
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/8c4becc7-1e12-400e-af53-96cfef74d7b1.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/45e1cf3e-f4cc-4755-9e75-93ace9d482fd.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/4833715e-23eb-4cc9-99cf-b3ecc36497d9.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/2375a597-0dd1-4454-aa74-31ae05df7905.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/ebbde864-d3c7-4da5-816f-76cd3e0f6479.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/3e0bb4e3-8282-4632-8b9b-595d7a82fcbd.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:33:37.716Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-003",
+      "sourceId": "df401cc5e88c",
+      "slug": "пуховик-мужская-зимняя-куртка-nike-acg-therma-fit-adidas-nike-moncler--product-003",
+      "sourceUrl": "https://www.kufar.by/item/1088258610",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088258610",
+      "title": "Пуховик мужская зимняя Куртка Nike ACG Therma-FIT (Adidas, Nike, moncler, Polo, cav empt, Cortez)",
+      "price": {
+        "amount": 159,
+        "currency": "BYN",
+        "raw": "159 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Данный бело-молочный пуховик Nike ACG – это отличный выбор для тех, кто ценит комфорт и стиль в холодное время года.Эта куртка выполнена из прочной и легкой ткани, которая обеспечивает отличную защиту от ветра и холода, при этом сохраняя легкость и удобство носки.Состав: внутри пуховик утеплен высококачественным холлофайбером, который сохраняет тепло и быстро сохнет.Дизайн пуховика Nike ACG: на передней части куртки размещен логотип бренда, что добавляет ей узнаваемости и стильности. Также, на замках находится гравировка. Все бирки в наличии.Технология Primaloft сохраняет тепло и отводит влагу. Есть карабин для крепления предметов до 1кг. Все лого вышиты.Этот пуховик является идеальным выбором для активного отдыха на свежем воздухе, походов в город или просто для повседневного ношения в холодное время года.",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/c9491d3a-7fb5-432e-ac2a-09659cb91312.jpg",
+          "localPath": "images/product-003/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 25363
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/3df8a9fb-faa0-4c37-9d9c-413f820b9b19.jpg",
+          "localPath": "images/product-003/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 40418
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/a7c232ee-e3de-4303-9961-f642002cd0a8.jpg",
+          "localPath": "images/product-003/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 43895
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/8ecf03b1-d15e-45a9-ab18-278695886406.jpg",
+          "localPath": "images/product-003/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 32341
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/82930649-f44c-4ad3-b9ee-9078c5ca718e.jpg",
+          "localPath": "images/product-003/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 44762
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/f957f7b5-a13a-4aba-90db-3eec1d93ecbf.jpg",
+          "localPath": "images/product-003/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 35426
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/892e53f8-823d-4644-8ec9-6359782b8747.jpg",
+          "localPath": "images/product-003/07.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 40759
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/c9491d3a-7fb5-432e-ac2a-09659cb91312.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/3df8a9fb-faa0-4c37-9d9c-413f820b9b19.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/a7c232ee-e3de-4303-9961-f642002cd0a8.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/8ecf03b1-d15e-45a9-ab18-278695886406.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/82930649-f44c-4ad3-b9ee-9078c5ca718e.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/f957f7b5-a13a-4aba-90db-3eec1d93ecbf.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/892e53f8-823d-4644-8ec9-6359782b8747.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:33:49.047Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-004",
+      "sourceId": "ca584f0de1b8",
+      "slug": "пуховик-мужская-зимняя-куртка-nike-acg-therma-fit-adidas-cav-empt-monc-product-004",
+      "sourceUrl": "https://www.kufar.by/item/1088259704",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088259704",
+      "title": "Пуховик мужская зимняя Куртка Nike ACG Therma-FIT (Adidas,cav empt, moncler, Polo, Cortez, Zara)",
+      "price": {
+        "amount": 159,
+        "currency": "BYN",
+        "raw": "159 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Данный черный пуховик Nike ACG – это отличный выбор для тех, кто ценит комфорт и стиль в холодное время года.Эта куртка выполнена из прочной и легкой ткани, которая обеспечивает отличную защиту от ветра и холода, при этом сохраняя легкость и удобство носки.Состав: внутри пуховик утеплен высококачественным холлофайбером, который сохраняет тепло и быстро сохнет.Дизайн пуховика Nike ACG: на передней части куртки размещен логотип бренда, что добавляет ей узнаваемости и стильности. Также, на замках находится гравировка. Все бирки в наличии.Технология Primaloft сохраняет тепло и отводит влагу. Есть карабин для крепления предметов до 1кг. Все лого вышиты.Этот пуховик является идеальным выбором для активного отдыха на свежем воздухе, походов в город или просто для повседневного ношения в холодное время года.",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/e50af911-41ec-4cfd-a773-442750634e8d.jpg",
+          "localPath": "images/product-004/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 25363
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/6950a0d7-0c61-4b4e-aafc-b06e23485225.jpg",
+          "localPath": "images/product-004/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 38139
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/22c6ad10-52f3-44d8-bac8-6eee1732769f.jpg",
+          "localPath": "images/product-004/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 52426
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/9ad9ac2c-8d49-4bc2-aafb-f7db50578c4f.jpg",
+          "localPath": "images/product-004/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 49532
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/1b2b2631-4848-46c3-a158-a46cbc7cc85a.jpg",
+          "localPath": "images/product-004/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 56456
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/b558e6d2-2b8c-4dad-be8b-4116a545b8e0.jpg",
+          "localPath": "images/product-004/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 40373
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/e50af911-41ec-4cfd-a773-442750634e8d.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/6950a0d7-0c61-4b4e-aafc-b06e23485225.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/22c6ad10-52f3-44d8-bac8-6eee1732769f.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/9ad9ac2c-8d49-4bc2-aafb-f7db50578c4f.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/1b2b2631-4848-46c3-a158-a46cbc7cc85a.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/b558e6d2-2b8c-4dad-be8b-4116a545b8e0.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:34:00.863Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-005",
+      "sourceId": "9f8b24ef86d5",
+      "slug": "пуховик-куртка-nike-acg-therma-fit-adv-lunar-lake-adidas-cav-empt-monc-product-005",
+      "sourceUrl": "https://www.kufar.by/item/1088259134",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088259134",
+      "title": "Пуховик Куртка Nike ACG Therma-FIT ADV Lunar Lake (Adidas, cav empt, moncler, Polo, Cortez, NSW)",
+      "price": {
+        "amount": 159,
+        "currency": "BYN",
+        "raw": "159 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Данный оливковый пуховик Nike ACG – это отличный выбор для тех, кто ценит комфорт и стиль в холодное время года.Эта куртка выполнена из прочной и легкой ткани, которая обеспечивает отличную защиту от ветра и холода, при этом сохраняя легкость и удобство носки.Состав: внутри пуховик утеплен высококачественным холлофайбером, который сохраняет тепло и быстро сохнет.Дизайн пуховика Nike ACG: на передней части куртки размещен логотип бренда, что добавляет ей узнаваемости и стильности. Также, на замках находится гравировка. Все бирки в наличии.Технология Primaloft сохраняет тепло и отводит влагу. Есть карабин для крепления предметов до 1кг. Все лого вышиты.Этот пуховик является идеальным выбором для активного отдыха на свежем воздухе, походов в город или просто для повседневного ношения в холодное время года.",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/ef3e2ae7-589a-409a-899c-5e56ccbb2078.jpg",
+          "localPath": "images/product-005/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 25363
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/a65a24ea-2c58-427a-81bc-c53d15e74f5c.jpg",
+          "localPath": "images/product-005/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 39378
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/833a8c7b-a437-43a0-87bb-5a6d890a826a.jpg",
+          "localPath": "images/product-005/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 47346
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/2958e9d2-f625-47db-9260-3cdeb7498d7f.jpg",
+          "localPath": "images/product-005/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 54915
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/0007af8e-cc00-419e-9f8a-48911eb2fdd6.jpg",
+          "localPath": "images/product-005/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 50527
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/201ee692-f19e-471b-aabe-09e049ac0303.jpg",
+          "localPath": "images/product-005/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 52118
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/9244212e-027e-4a22-85e4-597819e0edff.jpg",
+          "localPath": "images/product-005/07.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 47407
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/ef3e2ae7-589a-409a-899c-5e56ccbb2078.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/a65a24ea-2c58-427a-81bc-c53d15e74f5c.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/833a8c7b-a437-43a0-87bb-5a6d890a826a.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/2958e9d2-f625-47db-9260-3cdeb7498d7f.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/0007af8e-cc00-419e-9f8a-48911eb2fdd6.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/201ee692-f19e-471b-aabe-09e049ac0303.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/9244212e-027e-4a22-85e4-597819e0edff.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:34:12.572Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-006",
+      "sourceId": "b3df26a29f83",
+      "slug": "пуховик-мужская-зимняя-куртка-polo-ralph-lauren-adidas-nike-acg-moncle-product-006",
+      "sourceUrl": "https://www.kufar.by/item/1088250034",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088250034",
+      "title": "Пуховик мужская зимняя Куртка Polo Ralph Lauren (Adidas, Nike, ACG, moncler, Cortez, Cav empt)",
+      "price": {
+        "amount": 159,
+        "currency": "BYN",
+        "raw": "159 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Куртка Polo — классика стиля и надежное качество для повседневного использования. Эта модель идеально подойдет для тех, кто ценит элегантность и комфорт в любой сезон.Материал: прочная и приятная на ощупь ткань, устойчивая к ветру и легкому дождю.Утепление: оптимальное для прохладной погоды — легкий утеплитель, сохраняющий тепло без лишнего веса.Дизайн: минималистичный и стильный, с характерным логотипом Polo — всадник с клюшкой, который придает изделию статусность и узнаваемость.Капюшон: на некоторых моделях регулируемый капюшон для дополнительной защиты от непогоды.Карманы: удобные карманы для хранения мелочей или согрева рук.Застежка: надежная молния с кнопками или липучками для дополнительной фиксации.Качество: высококлассное исполнение, аккуратные швы и долговечные материалы.Преимущества:Элегантный классический дизайн с фирменными акцентами.Хорошая защита от ветра и холода.Универсальность — отлично подходит как для города, так и для активного отдыха.Долговечность и комфорт в носке.",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/76cb6b16-564c-4a08-8972-456d56cf1237.jpg",
+          "localPath": "images/product-006/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 21355
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/dab8358b-1e07-478b-b230-ed5044677af5.jpg",
+          "localPath": "images/product-006/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 50065
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/4e51e048-9a3f-47b6-b1f1-3f99cc176bd2.jpg",
+          "localPath": "images/product-006/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 41315
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/576d6439-3fd0-4120-b717-b3e92144c0db.jpg",
+          "localPath": "images/product-006/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 58182
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/197790ee-2011-4e73-8765-40b3a0e4cd65.jpg",
+          "localPath": "images/product-006/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 81302
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/1c5dc68f-d0fb-4063-b66f-7701e98ae4a7.jpg",
+          "localPath": "images/product-006/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 80986
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/d30d6602-f654-41e3-a731-b882512ae813.jpg",
+          "localPath": "images/product-006/07.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 45675
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/76cb6b16-564c-4a08-8972-456d56cf1237.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/dab8358b-1e07-478b-b230-ed5044677af5.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/4e51e048-9a3f-47b6-b1f1-3f99cc176bd2.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/576d6439-3fd0-4120-b717-b3e92144c0db.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/197790ee-2011-4e73-8765-40b3a0e4cd65.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/1c5dc68f-d0fb-4063-b66f-7701e98ae4a7.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/d30d6602-f654-41e3-a731-b882512ae813.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:34:24.088Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-007",
+      "sourceId": "717c7142e77f",
+      "slug": "пуховик-мужская-зимняя-куртка-air-jordan-therma-fit-nike-acg-moncler-p-product-007",
+      "sourceUrl": "https://www.kufar.by/item/1088235878",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088235878",
+      "title": "Пуховик мужская зимняя Куртка Air Jordan Therma-FIT (Nike, ACG, moncler, Polo, Puma, Cortez,)",
+      "price": {
+        "amount": 199,
+        "currency": "BYN",
+        "raw": "199 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Эта просторная стеганая куртка готова к любым погодным условиям. Она изготовлена из тканого водоотталкивающего внешнего слоя, дополнена синтетическим утеплителем и технологией Nike Therma-FIT для приятного тепла.Преимущества Технология Nike Therma-FIT помогает управлять естественным теплом вашего тела, сохраняя тепло в холодную погоду. Водоотталкивающая пропитка поможет вам оставаться сухими в сырую погоду. Синтетический наполнитель помогает сохранять тепло и изоляцию. Двусторонняя застежка-молния дает вам возможность создавать разные стили. Подробная информация о продукте Основная часть/Подкладка/Наполнитель: 100% полиэстер Боковые карманы на молнии Эластичные манжеты Машинная стирка",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/236571c9-da76-4e02-89f6-4202f18f0ccb.jpg",
+          "localPath": "images/product-007/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 22355
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/c0afbbfa-44a0-4bd4-b26c-7035b4752483.jpg",
+          "localPath": "images/product-007/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 38919
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/0c8371f0-f3a7-417f-b3e9-456f316ba96e.jpg",
+          "localPath": "images/product-007/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 45729
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/b531a4a9-2953-4aad-b7c3-29ca6e325110.jpg",
+          "localPath": "images/product-007/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 46023
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/395bf719-27b3-4105-a92b-5efccf008b87.jpg",
+          "localPath": "images/product-007/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 58852
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/733b66cd-1063-4e3b-8af2-09bf1b9e168d.jpg",
+          "localPath": "images/product-007/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 52558
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/466c516a-5eb0-4449-bc44-d784208f02d4.jpg",
+          "localPath": "images/product-007/07.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 32298
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/236571c9-da76-4e02-89f6-4202f18f0ccb.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/c0afbbfa-44a0-4bd4-b26c-7035b4752483.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/0c8371f0-f3a7-417f-b3e9-456f316ba96e.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/b531a4a9-2953-4aad-b7c3-29ca6e325110.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/395bf719-27b3-4105-a92b-5efccf008b87.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/733b66cd-1063-4e3b-8af2-09bf1b9e168d.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/466c516a-5eb0-4449-bc44-d784208f02d4.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:34:37.405Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-008",
+      "sourceId": "56ccc3b57225",
+      "slug": "пуховик-мужская-зимняя-куртка-nike-sportswear-storm-fit-adidas-acg-mon-product-008",
+      "sourceUrl": "https://www.kufar.by/item/1088243888",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088243888",
+      "title": "Пуховик мужская зимняя Куртка Nike Sportswear Storm-FIT (Adidas, ACG, moncler, Polo, Cortez, rap)",
+      "price": {
+        "amount": 159,
+        "currency": "BYN",
+        "raw": "159 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Куртка утепленная выполнена из водоотталкивающего стеганого текстиля с искусственным утеплителем. Детали: застежка на молнии, воротник-стойка, несъемный капюшон, 2 кармана на молнии.Вышитый логотип.",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/0d42b3b1-3da1-4248-b217-1aca47f85479.jpg",
+          "localPath": "images/product-008/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 22663
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/8a5cc9f3-2890-46c7-ab71-965301114d97.jpg",
+          "localPath": "images/product-008/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 36405
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/11a502df-dd10-4aca-89fe-4875c8616871.jpg",
+          "localPath": "images/product-008/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 36581
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/953b10a9-8718-41b5-9343-4fc04f5a79b8.jpg",
+          "localPath": "images/product-008/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 39699
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/78bba26b-ad6a-4a98-b95e-4dcd80552fef.jpg",
+          "localPath": "images/product-008/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 46208
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/f701c722-9001-41f1-96bc-6ee61245aa89.jpg",
+          "localPath": "images/product-008/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 33013
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/0d42b3b1-3da1-4248-b217-1aca47f85479.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/8a5cc9f3-2890-46c7-ab71-965301114d97.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/11a502df-dd10-4aca-89fe-4875c8616871.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/953b10a9-8718-41b5-9343-4fc04f5a79b8.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/78bba26b-ad6a-4a98-b95e-4dcd80552fef.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/f701c722-9001-41f1-96bc-6ee61245aa89.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:34:47.158Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-009",
+      "sourceId": "731f44e6b0ad",
+      "slug": "пуховик-мужская-зимняя-куртка-polo-ralph-lauren-adidas-nike-acg-moncle-product-009",
+      "sourceUrl": "https://www.kufar.by/item/1088249250",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088249250",
+      "title": "Пуховик мужская зимняя Куртка Polo Ralph Lauren (Adidas, Nike, ACG, moncler, Polo, y2k, Cortez)",
+      "price": {
+        "amount": 159,
+        "currency": "BYN",
+        "raw": "159 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Куртка Polo — классика стиля и надежное качество для повседневного использования. Эта модель идеально подойдет для тех, кто ценит элегантность и комфорт в любой сезон.Материал: прочная и приятная на ощупь ткань, устойчивая к ветру и легкому дождю.Утепление: оптимальное для прохладной погоды — легкий утеплитель, сохраняющий тепло без лишнего веса.Дизайн: минималистичный и стильный, с характерным логотипом Polo — всадник с клюшкой, который придает изделию статусность и узнаваемость.Капюшон: на некоторых моделях регулируемый капюшон для дополнительной защиты от непогоды.Карманы: удобные карманы для хранения мелочей или согрева рук.Застежка: надежная молния с кнопками или липучками для дополнительной фиксации.Качество: высококлассное исполнение, аккуратные швы и долговечные материалы.Преимущества:Элегантный классический дизайн с фирменными акцентами.Хорошая защита от ветра и холода.Универсальность — отлично подходит как для города, так и для активного отдыха.Долговечность и комфорт в носке.",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/c41d3afe-ebd5-4771-8196-815431072a8d.jpg",
+          "localPath": "images/product-009/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 21355
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/86dac0f6-8fa4-47df-98b4-a6097f2d519b.jpg",
+          "localPath": "images/product-009/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 40009
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/5aaeca88-fc12-431e-abea-aeca0299ed3c.jpg",
+          "localPath": "images/product-009/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 37586
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/f815a6aa-443d-4618-8e26-1eb6a2c6bbf0.jpg",
+          "localPath": "images/product-009/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 45919
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/0aebf371-0066-4057-848a-c0ade6662baf.jpg",
+          "localPath": "images/product-009/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 49734
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/fb0d9a0a-c357-487b-99e1-3b82ff7475ee.jpg",
+          "localPath": "images/product-009/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 44708
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/e3bbfa9e-dd13-40fe-a68f-a89db32651ee.jpg",
+          "localPath": "images/product-009/07.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 40975
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/0679b7e4-bf97-449c-8c7b-8862558ff308.jpg",
+          "localPath": "images/product-009/08.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 42994
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/c41d3afe-ebd5-4771-8196-815431072a8d.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/86dac0f6-8fa4-47df-98b4-a6097f2d519b.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/5aaeca88-fc12-431e-abea-aeca0299ed3c.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/f815a6aa-443d-4618-8e26-1eb6a2c6bbf0.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/0aebf371-0066-4057-848a-c0ade6662baf.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/fb0d9a0a-c357-487b-99e1-3b82ff7475ee.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/e3bbfa9e-dd13-40fe-a68f-a89db32651ee.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/0679b7e4-bf97-449c-8c7b-8862558ff308.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:34:58.835Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-010",
+      "sourceId": "0272aa4c8633",
+      "slug": "пуховик-мужская-зимняя-куртка-air-jordan-therma-fit-adidas-nike-acg-mo-product-010",
+      "sourceUrl": "https://www.kufar.by/item/1088239799",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1088239799",
+      "title": "Пуховик мужская зимняя Куртка Air Jordan Therma-FIT (Adidas, Nike, ACG, moncler, Polo, Cortez)",
+      "price": {
+        "amount": 199,
+        "currency": "BYN",
+        "raw": "199 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)",
+        "54-56 (XXXL)"
+      ],
+      "colors": [],
+      "description": "Эта просторная стеганая куртка готова к любым погодным условиям. Она изготовлена из тканого водоотталкивающего внешнего слоя, дополнена синтетическим утеплителем и технологией Nike Therma-FIT для приятного тепла.Преимущества Технология Nike Therma-FIT помогает управлять естественным теплом вашего тела, сохраняя тепло в холодную погоду. Водоотталкивающая пропитка поможет вам оставаться сухими в сырую погоду. Синтетический наполнитель помогает сохранять тепло и изоляцию. Двусторонняя застежка-молния дает вам возможность создавать разные стили. Подробная информация о продукте Основная часть/Подкладка/Наполнитель: 100% полиэстер Боковые карманы на молнии Эластичные манжеты Машинная стирка",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/aecf5d7f-9454-45bd-bed9-375a91b13a00.jpg",
+          "localPath": "images/product-010/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 22355
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/4e7bced4-4303-423e-869a-dc0fac29deb9.jpg",
+          "localPath": "images/product-010/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 37341
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/4c21d8ed-d63e-46d4-bf26-920e85834639.jpg",
+          "localPath": "images/product-010/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 38028
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/d7117bf3-1c4e-43a4-9526-17687aebc544.jpg",
+          "localPath": "images/product-010/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 54438
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/6f7588d3-47f3-4c67-86c4-7eecc845114b.jpg",
+          "localPath": "images/product-010/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 38991
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/b76c6cea-e91b-400a-93f2-a9f1e4dfc166.jpg",
+          "localPath": "images/product-010/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 42101
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/04e8911c-084b-43f1-b797-2421b2a20939.jpg",
+          "localPath": "images/product-010/07.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 34460
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/aecf5d7f-9454-45bd-bed9-375a91b13a00.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/4e7bced4-4303-423e-869a-dc0fac29deb9.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/4c21d8ed-d63e-46d4-bf26-920e85834639.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/d7117bf3-1c4e-43a4-9526-17687aebc544.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/6f7588d3-47f3-4c67-86c4-7eecc845114b.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/b76c6cea-e91b-400a-93f2-a9f1e4dfc166.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/04e8911c-084b-43f1-b797-2421b2a20939.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:35:08.966Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-011",
+      "sourceId": "d5d3f64b33c1",
+      "slug": "сумка-барсетка-coach-graham-crossbody-bag-product-011",
+      "sourceUrl": "https://www.kufar.by/item/1019765032",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1019765032",
+      "title": "Сумка барсетка Coach Graham Crossbody Bag",
+      "price": {
+        "amount": 95,
+        "currency": "BYN",
+        "raw": "95 р."
+      },
+      "size": [],
+      "colors": [],
+      "description": "Мужская сумка Graham от Coach - это идеальный аксессуар для каждого дня и прекрасный подарок вашему любимому человеку, другу, коллеге. Данный аксессуар хотя и считается мужской, но, по большому счёту, она - унисекс. Поэтому, подойдёт как мужчине так и женщине.",
+      "category": {
+        "id": "accessories",
+        "label": "Сумки и аксессуары",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/836a2d53-25ae-4205-934c-0834c2b1633b.jpg",
+          "localPath": "images/product-011/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 39388
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/836a2d53-25ae-4205-934c-0834c2b1633b.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:35:15.862Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-012",
+      "sourceId": "9b31c9d9828a",
+      "slug": "спортивные-штаны-nike-acg-polartec-product-012",
+      "sourceUrl": "https://www.kufar.by/item/1059766652",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1059766652",
+      "title": "Спортивные штаны NIKE ACG POLARTEC",
+      "price": {
+        "amount": 85,
+        "currency": "BYN",
+        "raw": "85 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)"
+      ],
+      "colors": [],
+      "description": "Утепленные штаны Nike ACG Polartec. Плотный и качественный материал.Замеры: М:Длина: 99см;Обхват талии: 78см;L:Длина: 101см;Обхват талии: 82см;XL: Длина: 103см;Обхват талии: 86см;XXL: Длина: 105см;Обхват талии: 90см.",
+      "category": {
+        "id": "jeans-pants",
+        "label": "Джинсы и брюки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/7db653f6-eecc-46a3-88c1-8a332e4cef41.jpg",
+          "localPath": "images/product-012/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 53970
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/e1ec47d3-6e5a-4591-999a-4e7808894690.jpg",
+          "localPath": "images/product-012/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 71533
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/8299735d-a653-4002-93c0-dbfb46cdac76.jpg",
+          "localPath": "images/product-012/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 21136
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/80d25b1c-4824-42ec-9dab-11427c713ad0.jpg",
+          "localPath": "images/product-012/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 26363
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/434c450c-6b3f-4846-99fa-38b6ca428b8a.jpg",
+          "localPath": "images/product-012/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 66101
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/7db653f6-eecc-46a3-88c1-8a332e4cef41.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/e1ec47d3-6e5a-4591-999a-4e7808894690.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/8299735d-a653-4002-93c0-dbfb46cdac76.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/80d25b1c-4824-42ec-9dab-11427c713ad0.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/434c450c-6b3f-4846-99fa-38b6ca428b8a.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:35:26.362Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-013",
+      "sourceId": "bfe12ea8e532",
+      "slug": "кофта-зип-худи-nike-tech-fleece-windrunner-product-013",
+      "sourceUrl": "https://www.kufar.by/item/1069406315",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1069406315",
+      "title": "Кофта зип-худи Nike Tech Fleece Windrunner",
+      "price": {
+        "amount": 120,
+        "currency": "BYN",
+        "raw": "120 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [
+        "овыми блоками"
+      ],
+      "description": "Новая коллекция Nike Tech FleeceМодель: Данная модель — мужская кофта на молнии из серии Tech Fleece, сочетающая хлопок и полиэстер для тепла и легкости.Дизайн: Отличается классическим стилем Windrunner с цветовыми блоками, двусторонней молнией и фирменным карманом на рукаве с проклеенными швами.Замеры: М:Длина от плеча: 62смШирина по подмышкам: 51смДлина рукава от капюшона: 72смL: Длина от плеча: 62см Ширина по подмышкам: 54смДлина рукава от капюшона: 75смXl: Длина от плчеа: 65смШирина по подмышкам: 57смДлина рукава от капюшона: 76см",
+      "category": {
+        "id": "hoodies",
+        "label": "Худи и толстовки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/ca2ca9c0-7b25-4fb2-8d77-d8f002fad6ce.jpg",
+          "localPath": "images/product-013/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 45377
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/ca2ca9c0-7b25-4fb2-8d77-d8f002fad6ce.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:35:32.318Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-014",
+      "sourceId": "83b325fcaa89",
+      "slug": "кофта-зип-худи-nike-tech-fleece-windrunner-product-014",
+      "sourceUrl": "https://www.kufar.by/item/1069406228",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1069406228",
+      "title": "Кофта зип-худи Nike Tech Fleece Windrunner",
+      "price": {
+        "amount": 120,
+        "currency": "BYN",
+        "raw": "120 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [
+        "овыми блоками"
+      ],
+      "description": "Новая коллекция Nike Tech FleeceМодель: Данная модель — мужская кофта на молнии из серии Tech Fleece, сочетающая хлопок и полиэстер для тепла и легкости.Дизайн: Отличается классическим стилем Windrunner с цветовыми блоками, двусторонней молнией и фирменным карманом на рукаве с проклеенными швами.Замеры: М:Длина от плеча: 62смШирина по подмышкам: 51смДлина рукава от капюшона: 72смL: Длина от плеча: 62см Ширина по подмышкам: 54смДлина рукава от капюшона: 75смXl: Длина от плчеа: 65смШирина по подмышкам: 57смДлина рукава от капюшона: 76см",
+      "category": {
+        "id": "hoodies",
+        "label": "Худи и толстовки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/71960724-28f5-41af-95b2-fb71f10754a4.jpg",
+          "localPath": "images/product-014/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 48932
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/71960724-28f5-41af-95b2-fb71f10754a4.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:35:38.701Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-015",
+      "sourceId": "943e4b4cc543",
+      "slug": "сумка-барсетка-coach-joyride-product-015",
+      "sourceUrl": "https://www.kufar.by/item/1019765267",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1019765267",
+      "title": "Сумка барсетка Coach Joyride",
+      "price": {
+        "amount": 85,
+        "currency": "BYN",
+        "raw": "85 р."
+      },
+      "size": [],
+      "colors": [],
+      "description": "Мужская сумка Graham от Coach - это идеальный аксессуар для каждого дня и прекрасный подарок вашему любимому человеку, другу, коллеге. Данный аксессуар хотя и считается мужской, но, по большому счёту, она - унисекс. Поэтому, подойдёт как мужчине так и женщине.",
+      "category": {
+        "id": "accessories",
+        "label": "Сумки и аксессуары",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/b5b8011c-5738-426d-a887-42b1906f78fc.jpg",
+          "localPath": "images/product-015/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 37553
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/b5b8011c-5738-426d-a887-42b1906f78fc.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:35:44.124Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-016",
+      "sourceId": "42f836d71f75",
+      "slug": "сумка-барсетка-coach-sullivan-crossbody-in-signature-canvas-product-016",
+      "sourceUrl": "https://www.kufar.by/item/1019765133",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1019765133",
+      "title": "Сумка барсетка Coach Sullivan Crossbody in Signature Canvas",
+      "price": {
+        "amount": 85,
+        "currency": "BYN",
+        "raw": "85 р."
+      },
+      "size": [],
+      "colors": [],
+      "description": "Мужская сумка Graham от Coach - это идеальный аксессуар для каждого дня и прекрасный подарок вашему любимому человеку, другу, коллеге. Данный аксессуар хотя и считается мужской, но, по большому счёту, она - унисекс. Поэтому, подойдёт как мужчине так и женщине.",
+      "category": {
+        "id": "accessories",
+        "label": "Сумки и аксессуары",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/adf5411d-bf9b-4174-b237-e7bc0c4cb8bd.jpg",
+          "localPath": "images/product-016/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 39384
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/adf5411d-bf9b-4174-b237-e7bc0c4cb8bd.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:35:49.851Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-017",
+      "sourceId": "77f44d271e0b",
+      "slug": "спортивные-штаны-nike-solo-swoosh-fleece-open-hem-pants-acg-nsw-product-017",
+      "sourceUrl": "https://www.kufar.by/item/1059744962",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1059744962",
+      "title": "Спортивные штаны Nike Solo Swoosh Fleece Open-Hem Pants ACG NSW",
+      "price": {
+        "amount": 99,
+        "currency": "BYN",
+        "raw": "99 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [],
+      "description": "Nike Solo Swoosh Минималистичные Удобные и Стильные Классические Штаны с Флисовой Подкладкой Вязаные Спортивные Штаны.Штаны имеют в манжетах резинки, благодаря которым каждый сможет подобрать для себя идеальный выход штанов от узкого до широкого.Замеры:S: Длина: 101Полупояс: 35 ( резинка )M: Длина: 102Полупояс: 37 (резинка)L: Длина: 103Полупояс: 38 (резинка)XL: Длина: 104Полупояс: 40 (резинка)",
+      "category": {
+        "id": "jeans-pants",
+        "label": "Джинсы и брюки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/3fab385b-4870-4376-bb98-3d99f08b1b0d.jpg",
+          "localPath": "images/product-017/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 31172
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/68e9120e-a02c-4276-9184-5dde40637d5c.jpg",
+          "localPath": "images/product-017/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 26540
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/2b1e5a14-47f5-495b-ab9f-4d9ae510037b.jpg",
+          "localPath": "images/product-017/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 23697
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/79e086b1-7c5c-47e2-8861-07fd6e85b66a.jpg",
+          "localPath": "images/product-017/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 32377
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/b627bd4a-2986-4b79-bc2c-2892119270a1.jpg",
+          "localPath": "images/product-017/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 71921
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/81bf3e60-dcca-47ef-af48-6740371c5283.jpg",
+          "localPath": "images/product-017/06.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 58397
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/f6a3b7e4-e018-444e-b8fb-21bb8b3abc4a.jpg",
+          "localPath": "images/product-017/07.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 45623
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/3fab385b-4870-4376-bb98-3d99f08b1b0d.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/68e9120e-a02c-4276-9184-5dde40637d5c.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/2b1e5a14-47f5-495b-ab9f-4d9ae510037b.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/79e086b1-7c5c-47e2-8861-07fd6e85b66a.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/b627bd4a-2986-4b79-bc2c-2892119270a1.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/81bf3e60-dcca-47ef-af48-6740371c5283.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/f6a3b7e4-e018-444e-b8fb-21bb8b3abc4a.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:36:00.516Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-018",
+      "sourceId": "1156b61aa2af",
+      "slug": "худи-толстовка-nike-therma-fit-brushed-basketball-pullover-hoodie-adid-product-018",
+      "sourceUrl": "https://www.kufar.by/item/1059625649",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1059625649",
+      "title": "Худи Толстовка NIKE Therma-FIT Brushed Basketball Pullover Hoodie (Adidas, New Balance, Air Jordan)",
+      "price": {
+        "amount": 69.9,
+        "currency": "BYN",
+        "raw": "69.90 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [],
+      "description": "Свободная толстовка с технологией Nike Therma-FIT для регулирования температуры тела в холодную погоду. Французский трикотаж с начесанной внутренней частью, передний карман, резинки на манжетах и подоле.S:Рост: 165-170Вес: 45-57M:Рост: 170-175Вес: 57-67L: Рост: 170-175Вес: 67-75XL: Рост: 178-183Вес: 75-85",
+      "category": {
+        "id": "hoodies",
+        "label": "Худи и толстовки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/7725f38f-dd36-4ae3-8cf0-aa848aa5eb6f.jpg",
+          "localPath": "images/product-018/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 72225
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/49f5aec1-3bb4-421c-bb9a-2b19fe671de1.jpg",
+          "localPath": "images/product-018/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 25849
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/39212f73-2c8a-42f0-8464-b03cbe528fbc.jpg",
+          "localPath": "images/product-018/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 22691
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/4ba68621-abd7-409f-be49-841b1111b12a.jpg",
+          "localPath": "images/product-018/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 117006
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/7725f38f-dd36-4ae3-8cf0-aa848aa5eb6f.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/49f5aec1-3bb4-421c-bb9a-2b19fe671de1.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/39212f73-2c8a-42f0-8464-b03cbe528fbc.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/4ba68621-abd7-409f-be49-841b1111b12a.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:36:08.952Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-019",
+      "sourceId": "6779441f938a",
+      "slug": "худи-толстовка-nike-therma-fit-brushed-basketball-pullover-hoodie-adid-product-019",
+      "sourceUrl": "https://www.kufar.by/item/1059625863",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1059625863",
+      "title": "Худи Толстовка NIKE Therma-FIT Brushed Basketball Pullover Hoodie (Adidas, New Balance, ACG, Jordan)",
+      "price": {
+        "amount": 69.9,
+        "currency": "BYN",
+        "raw": "69.90 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [],
+      "description": "Свободная толстовка с технологией Nike Therma-FIT для регулирования температуры тела в холодную погоду. Французский трикотаж с начесанной внутренней частью, передний карман, резинки на манжетах и подоле.S:Рост: 165-170Вес: 45-57M:Рост: 170-175Вес: 57-67L: Рост: 170-175Вес: 67-75XL: Рост: 178-183Вес: 75-85",
+      "category": {
+        "id": "hoodies",
+        "label": "Худи и толстовки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/632e0ceb-9436-42e3-aba5-7f329848b910.jpg",
+          "localPath": "images/product-019/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 42395
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/bdf4122f-7ea4-497a-aa14-4e4a6af55a72.jpg",
+          "localPath": "images/product-019/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 46262
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/632e0ceb-9436-42e3-aba5-7f329848b910.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/bdf4122f-7ea4-497a-aa14-4e4a6af55a72.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:36:16.725Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-020",
+      "sourceId": "64890bdb3205",
+      "slug": "толстовка-худи-свитшот-nike-therma-fit-brushed-basketball-pullover-hoo-product-020",
+      "sourceUrl": "https://www.kufar.by/item/1059626059",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1059626059",
+      "title": "Толстовка худи свитшот NIKE Therma-FIT Brushed Basketball Pullover Hoodie РАСПРОДАЖА АКИЦЯ Cortez",
+      "price": {
+        "amount": 69.9,
+        "currency": "BYN",
+        "raw": "69.90 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [],
+      "description": "Свободная толстовка с технологией Nike Therma-FIT для регулирования температуры тела в холодную погоду. Французский трикотаж с начесанной внутренней частью, передний карман, резинки на манжетах и подоле.S:Рост: 165-170Вес: 45-57M:Рост: 170-175Вес: 57-67L: Рост: 170-175Вес: 67-75XL: Рост: 178-183Вес: 75-85",
+      "category": {
+        "id": "hoodies",
+        "label": "Худи и толстовки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/a63f0697-29c7-49a7-aa83-84bec7655e7b.jpg",
+          "localPath": "images/product-020/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 117006
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/239729ff-f4f8-4776-81ee-47fdc60739f0.jpg",
+          "localPath": "images/product-020/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 26812
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/e555c5e7-0da5-4d90-bc42-8e5fcdf002b4.jpg",
+          "localPath": "images/product-020/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 26187
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/a63f0697-29c7-49a7-aa83-84bec7655e7b.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/239729ff-f4f8-4776-81ee-47fdc60739f0.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/e555c5e7-0da5-4d90-bc42-8e5fcdf002b4.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:36:25.329Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-021",
+      "sourceId": "65bfb8ad9042",
+      "slug": "толстовка-худи-свитшот-nike-therma-fit-brushed-basketball-pullover-hoo-product-021",
+      "sourceUrl": "https://www.kufar.by/item/1059626225",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1059626225",
+      "title": "Толстовка худи свитшот NIKE Therma-FIT Brushed Basketball Pullover Hoodie РАСПРОДАЖА АКЦИЯ Cortez",
+      "price": {
+        "amount": 69.9,
+        "currency": "BYN",
+        "raw": "69.90 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [],
+      "description": "Свободная толстовка с технологией Nike Therma-FIT для регулирования температуры тела в холодную погоду. Французский трикотаж с начесанной внутренней частью, передний карман, резинки на манжетах и подоле.S:Рост: 165-170Вес: 45-57M:Рост: 170-175Вес: 57-67L: Рост: 170-175Вес: 67-75XL: Рост: 178-183Вес: 75-85",
+      "category": {
+        "id": "hoodies",
+        "label": "Худи и толстовки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/b0c99be9-b85d-4175-86b9-1fed78d537e3.jpg",
+          "localPath": "images/product-021/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 150546
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/1de12023-0007-4496-b94b-f5d1b1956954.jpg",
+          "localPath": "images/product-021/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 37279
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/a161dadb-8984-4928-ad93-3acdc7214c20.jpg",
+          "localPath": "images/product-021/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 36881
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/0fcfeee4-d357-47d1-9839-63e8268d8057.jpg",
+          "localPath": "images/product-021/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 168185
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/b0c99be9-b85d-4175-86b9-1fed78d537e3.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/1de12023-0007-4496-b94b-f5d1b1956954.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/a161dadb-8984-4928-ad93-3acdc7214c20.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/0fcfeee4-d357-47d1-9839-63e8268d8057.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:36:36.175Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-022",
+      "sourceId": "e127e290cc2d",
+      "slug": "жилетка-nike-storm-fit-big-logo-распродажа-акция-скидки-adidas-moncler-product-022",
+      "sourceUrl": "https://www.kufar.by/item/1058992273",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1058992273",
+      "title": "Жилетка NIKE STORM-FIT BIG LOGO РАСПРОДАЖА Акция Скидки (Adidas, moncler, Polo, ACG, y2k, sk8)",
+      "price": {
+        "amount": 59.9,
+        "currency": "BYN",
+        "raw": "59.90 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [],
+      "description": "Nike — американский спортивный бренд, который задал стандарты в дизайне и технологиях кроссовок. Компания первой внедрила амортизирующую систему Air и изменила восприятие спортивной обуви. После сотрудничества с Майклом Джорданом кроссовки Nike стали неотъемлемой частью уличной моды. Бренд развивает инновационные технологии, включая Flyknit — плетёный верх, сочетающий лёгкость и поддержку. Nike регулярно выпускает лимитированные коллекции с артистами и художниками. Среди наиболее обсуждаемых релизов — Air Yeezy 2 Red October, созданные с Канье Уэстом, и Mars Yard Тома Сакса.Замеры: М: Длина: 66Обхват груди: 114Ширина плеч: 44,5L: Длина: 68Обхват груди: 118Ширина плеч: 46XL: Длина: 70Обхват груди: 122Ширина плеч: 47,5XXL:Длина: 72Обхват груди: 126Ширина плеч: 49",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/eb7c8989-a4dd-470e-a3b4-c7480970ca61.jpg",
+          "localPath": "images/product-022/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 33441
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/eb7c8989-a4dd-470e-a3b4-c7480970ca61.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:36:42.045Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-023",
+      "sourceId": "0b08ee9bb15d",
+      "slug": "классическая-жилетка-распродажа-скидки-акция-nike-adidas-moncler-manto-product-023",
+      "sourceUrl": "https://www.kufar.by/item/1058994161",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1058994161",
+      "title": "Классическая жилетка РАСПРОДАЖА СКИДКИ АКЦИЯ (Nike, Adidas, moncler, manto, Columbia, Carhartt)",
+      "price": {
+        "amount": 29.9,
+        "currency": "BYN",
+        "raw": "29.90 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [
+        "и лаконичный дизайн позволяют с"
+      ],
+      "description": "Стильный утепленный демисезонный жилет оверсайз— твоя база для прохладного сезона! Короткая стеганая жилетка прямого кроя из гладкой ветрозащитной водоотталкивающей ткани с утеплителем холлофайбер — идеальный выбор для межсезонья. Эта практичная дутая жилетка легко станет идеальным дополнением любого гардероба.Универсальный черный цвет и лаконичный дизайн позволяют сочетать ее с худи, футболкой или рубашкой для создания образов на учебу, в офис, для прогулок или активного отдыха. Жилет застегивается на молнию и кнопки, а прорезные карманы позволят удобно хранить необходимые мелочи. Высокий воротник-стойка отлично защитит от ветра. Эта легкая, но теплая жилетка дутая создает дополнительный слой тепла без ограничения движений, даря комфорт в прохладные осенние и весенние дни, а так же подойдет для теплой зимы.Обнови свой образ с первой покупки — выбирай практичность, свободу и мужественный стиль!Замеры: L:Длина: 60Ширина по подмышкам: 53XL: Длина: 63Ширина: 542XL:Длина:65Ширина: 563XL: Длина: 69Ширина: 584XLДлина: 71Ширина: 62",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/714931d8-e3d9-4cce-8362-d9ac4fe1619b.jpg",
+          "localPath": "images/product-023/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 25246
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/b355e115-1925-4ef5-a257-f0c7d16c9f3d.jpg",
+          "localPath": "images/product-023/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 20668
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/15878ec5-017a-4d47-a3c8-9368b046ad45.jpg",
+          "localPath": "images/product-023/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 26884
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/8b25c165-5055-4b46-a080-a5c123951b16.jpg",
+          "localPath": "images/product-023/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 23107
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/ed324a66-eaaf-4c69-8557-81b17d9a5e60.jpg",
+          "localPath": "images/product-023/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 33066
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/714931d8-e3d9-4cce-8362-d9ac4fe1619b.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/b355e115-1925-4ef5-a257-f0c7d16c9f3d.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/15878ec5-017a-4d47-a3c8-9368b046ad45.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/8b25c165-5055-4b46-a080-a5c123951b16.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/ed324a66-eaaf-4c69-8557-81b17d9a5e60.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:36:53.349Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-024",
+      "sourceId": "e6be3356932e",
+      "slug": "жилетка-nike-sportswear-windrunner-dri-fit-распродажа-акция-скидки-adi-product-024",
+      "sourceUrl": "https://www.kufar.by/item/1058993340",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1058993340",
+      "title": "Жилетка Nike sportswear Windrunner DRI-FIT РАСПРОДАЖА Акция Скидки (Adidas, polo, Cortez, ACG)",
+      "price": {
+        "amount": 54.9,
+        "currency": "BYN",
+        "raw": "54.90 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [],
+      "description": "Жилет Nike Sportswear — это универсальная модель с продуманным и привлекательным дизайном, которая защищает от холода и не стесняет движений. Пространство для бегунка в форме шеврона надежно защищает карманы от влаги.",
+      "category": {
+        "id": "jackets",
+        "label": "Куртки и пуховики",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/58f66a3d-5e2a-4512-ae33-9e6ca1824ea5.jpg",
+          "localPath": "images/product-024/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 50944
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/8813d444-0655-4337-ba7d-614f4a69f656.jpg",
+          "localPath": "images/product-024/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 32204
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/310202fc-231c-43d4-8aae-2b43c9e56b15.jpg",
+          "localPath": "images/product-024/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 33818
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/e05dca7e-e3d5-48d1-bd8f-06b31018ac9b.jpg",
+          "localPath": "images/product-024/04.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 29240
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/0f6918ea-d740-400a-94f6-f300c87361d5.jpg",
+          "localPath": "images/product-024/05.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 43743
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/58f66a3d-5e2a-4512-ae33-9e6ca1824ea5.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/8813d444-0655-4337-ba7d-614f4a69f656.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/310202fc-231c-43d4-8aae-2b43c9e56b15.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/e05dca7e-e3d5-48d1-bd8f-06b31018ac9b.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/0f6918ea-d740-400a-94f6-f300c87361d5.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:37:01.887Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-025",
+      "sourceId": "cf79ec4aa459",
+      "slug": "балаклава-сруб-snood-cortez-y2k-sk8-rap-nike-carhartt-cav-empt-arctery-product-025",
+      "sourceUrl": "https://www.kufar.by/item/1091984033",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1091984033",
+      "title": "Балаклава сруб snood Cortez (y2k, sk8, rap, Nike, Carhartt, cav empt, arcteryx, adidas, manto)",
+      "price": {
+        "amount": 15,
+        "currency": "BYN",
+        "raw": "15 р."
+      },
+      "size": [
+        "One size"
+      ],
+      "colors": [],
+      "description": "Snood Cortez. Самовывоз: г. Гомель;Доставка почтой по всей Беларуси;One size.БОЛЬШЕ ТОВАРОВ В ПРОФИЛЕ И НАШЕМ ТГК: stylepointby",
+      "category": {
+        "id": "accessories",
+        "label": "Сумки и аксессуары",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/70702ac3-cb28-4775-a604-d44ae585aa12.jpg",
+          "localPath": "images/product-025/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 47920
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/70702ac3-cb28-4775-a604-d44ae585aa12.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:37:08.661Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-026",
+      "sourceId": "1c7446752f03",
+      "slug": "шарф-nike-big-swoosh-adidas-cortez-y2k-sk8-rap-cab-empt-arcteryx-gorpc-product-026",
+      "sourceUrl": "https://www.kufar.by/item/1091983911",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1091983911",
+      "title": "Шарф Nike Big Swoosh (adidas, Cortez, y2k, sk8, rap, cab empt, arcteryx, gorpcop, Carhartt, ACG)",
+      "price": {
+        "amount": 19.9,
+        "currency": "BYN",
+        "raw": "19.90 р."
+      },
+      "size": [],
+      "colors": [],
+      "description": "Шарф Nike Big Swoosh. Самовывоз: г. Гомель;Доставка по всей Беларуси.БОЛЬШЕ ТОВАРОВ В ПРОФИЛЕ И ТГК: stylepointby",
+      "category": {
+        "id": "accessories",
+        "label": "Сумки и аксессуары",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/be07b5e7-4df1-405c-a0de-5bbbca8a421c.jpg",
+          "localPath": "images/product-026/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 56062
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/be07b5e7-4df1-405c-a0de-5bbbca8a421c.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:37:14.676Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-027",
+      "sourceId": "810d63ddd3c2",
+      "slug": "кроссовки-new-balance-1000-product-027",
+      "sourceUrl": "https://www.kufar.by/item/1055813889",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1055813889",
+      "title": "Кроссовки New Balance 1000",
+      "price": {
+        "amount": 99,
+        "currency": "BYN",
+        "raw": "99 р."
+      },
+      "size": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "colors": [],
+      "description": "New Balance 1000Состояние: New Размеры: 41-45",
+      "category": {
+        "id": "shoes",
+        "label": "Обувь",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/e3963acc-a38d-4e95-b4d7-28f490479c46.jpg",
+          "localPath": "images/product-027/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 15936
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/09ec8a2d-319d-412d-a635-fc51f8a163db.jpg",
+          "localPath": "images/product-027/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 21443
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/334ede81-6fe5-41d8-95f0-134f1b231cb2.jpg",
+          "localPath": "images/product-027/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 15156
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/e3963acc-a38d-4e95-b4d7-28f490479c46.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/09ec8a2d-319d-412d-a635-fc51f8a163db.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/334ede81-6fe5-41d8-95f0-134f1b231cb2.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:37:23.077Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-028",
+      "sourceId": "6ef70d1d7e8a",
+      "slug": "футболка-майка-nike-acg-lbr-lungs-с-вышитым-логотипом-летняя-распродаж-product-028",
+      "sourceUrl": "https://www.kufar.by/item/1055821837",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1055821837",
+      "title": "Футболка майка Nike Acg LBR Lungs с вышитым логотипом ЛЕТНЯЯ РАСПРОДАЖА",
+      "price": {
+        "amount": 35,
+        "currency": "BYN",
+        "raw": "35 р."
+      },
+      "size": [],
+      "colors": [
+        "Черный Сезон"
+      ],
+      "description": "Характеристики: Пол: МужскойБренд: NikeТип: ФутболкаКоллекция: nike acgНазначение: ПовседневныеПопулярное: yesЦвет: ЧерныйСезон: Летний",
+      "category": {
+        "id": "t-shirts",
+        "label": "Футболки и майки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/6d3312c6-30e6-41a4-b765-b71dcc378059.jpg",
+          "localPath": "images/product-028/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 13927
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/489f9f82-b275-475e-877d-c05426473b4a.jpg",
+          "localPath": "images/product-028/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 37620
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/6d3312c6-30e6-41a4-b765-b71dcc378059.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/489f9f82-b275-475e-877d-c05426473b4a.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:37:28.147Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-029",
+      "sourceId": "2e16d113f548",
+      "slug": "футболка-майка-stussy-cav-empt-trapstar-maison-margiela-nike-adidas-mo-product-029",
+      "sourceUrl": "https://www.kufar.by/item/1069394694",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1069394694",
+      "title": "Футболка Майка Stussy (Cav empt trapstar Maison margiela Nike adidas Moncler manto y2k sk8 rap )",
+      "price": {
+        "amount": 35,
+        "currency": "BYN",
+        "raw": "35 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [],
+      "description": "Молодежная футболка из 100% хлопка - классическая повседневная базовая вещь черная или белая на ваш выбор. Она подойдет как для спорта, так и для дома. Футболка хлопковая - это удобная оверсайз футболка, которая станет твоей самой любимой вещью на каждый день. Она унисекс, подходит как мужчинам, так и женщинам. При выборе размера руководствуйтесь размерной сеткой от производителя. Множество вариантов футболок есть с рисунками, принтами, надписями, прикольными цитатами и многими другими дизайнами. Ты можешь выбрать рисунок или надпись, которые будут выражать твою индивидуальность, настроение и характер. Футболка из хлопка, поэтому она отлично пропускает воздух, что позволит тебе чувствовать себя комфортно в любое время года. Свободный крой футболки овер сайз отлично дополняет любой образ.Ты можешь носить ее с джинсами, юбками, шортами или леггинсами. Эта футболка станет твоей любимой как для прогулки, так и для вечеринки. Выбирай футболку хлопком и получай удобство, комфорт и стиль в одной вещи",
+      "category": {
+        "id": "t-shirts",
+        "label": "Футболки и майки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/d18fabdb-5d16-4e87-b6b9-bb384c68ac2a.jpg",
+          "localPath": "images/product-029/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 34689
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/42c3975d-a0d3-47d7-bf60-1bf920896bb5.jpg",
+          "localPath": "images/product-029/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 32204
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/094d2fd8-c731-47ef-9532-e46f1b6b5da5.jpg",
+          "localPath": "images/product-029/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 29610
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/d18fabdb-5d16-4e87-b6b9-bb384c68ac2a.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/42c3975d-a0d3-47d7-bf60-1bf920896bb5.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/094d2fd8-c731-47ef-9532-e46f1b6b5da5.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:37:37.711Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-030",
+      "sourceId": "7b35ca38c3c7",
+      "slug": "футболка-майка-stussy-cav-empt-trapstar-maison-margiela-carhartt-manto-product-030",
+      "sourceUrl": "https://www.kufar.by/item/1069395519",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1069395519",
+      "title": "Футболка Майка Stussy (Cav empt trapstar Maison margiela Carhartt manto Moncler ACG sk8 rap Nike",
+      "price": {
+        "amount": 35,
+        "currency": "BYN",
+        "raw": "35 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [],
+      "description": "Молодежная футболка из 100% хлопка - классическая повседневная базовая вещь черная или белая на ваш выбор. Она подойдет как для спорта, так и для дома. Футболка хлопковая - это удобная оверсайз футболка, которая станет твоей самой любимой вещью на каждый день. Она унисекс, подходит как мужчинам, так и женщинам. При выборе размера руководствуйтесь размерной сеткой от производителя. Множество вариантов футболок есть с рисунками, принтами, надписями, прикольными цитатами и многими другими дизайнами. Ты можешь выбрать рисунок или надпись, которые будут выражать твою индивидуальность, настроение и характер. Футболка из хлопка, поэтому она отлично пропускает воздух, что позволит тебе чувствовать себя комфортно в любое время года. Свободный крой футболки овер сайз отлично дополняет любой образ.Ты можешь носить ее с джинсами, юбками, шортами или леггинсами. Эта футболка станет твоей любимой как для прогулки, так и для вечеринки. Выбирай футболку хлопком и получай удобство, комфорт и стиль в одной вещи",
+      "category": {
+        "id": "t-shirts",
+        "label": "Футболки и майки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/b7717f0f-0231-4667-b401-2c2b8b68d746.jpg",
+          "localPath": "images/product-030/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 34689
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/447b71ed-d6f9-411a-8a90-17b24364662f.jpg",
+          "localPath": "images/product-030/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 31700
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/78e1e948-b6ab-4308-b36c-bace7e0b6a9f.jpg",
+          "localPath": "images/product-030/03.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 35546
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/b7717f0f-0231-4667-b401-2c2b8b68d746.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/447b71ed-d6f9-411a-8a90-17b24364662f.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/78e1e948-b6ab-4308-b36c-bace7e0b6a9f.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:37:42.660Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-031",
+      "sourceId": "80146507fae1",
+      "slug": "футболка-майка-nike-найк-sportswear-max90-adidas-carhartt-moncler-dick-product-031",
+      "sourceUrl": "https://www.kufar.by/item/1067447739",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1067447739",
+      "title": "Футболка Майка Nike Найк sportswear MAX90 (Adidas, Carhartt, moncler, dickies, Cortez, sk8, rap, ACG",
+      "price": {
+        "amount": 35,
+        "currency": "BYN",
+        "raw": "35 р."
+      },
+      "size": [
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)"
+      ],
+      "colors": [
+        "Черный Сезон"
+      ],
+      "description": "ЛЕТНЯЯ РАСПРОДАЖА!!!Характеристики: Пол: МужскойБренд: NikeТип: ФутболкаКоллекция: nike acgНазначение: ПовседневныеПопулярное: yesЦвет: ЧерныйСезон: Летний",
+      "category": {
+        "id": "t-shirts",
+        "label": "Футболки и майки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/7d2dd305-0cb0-4552-b43e-c78e7c0873f6.jpg",
+          "localPath": "images/product-031/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 26137
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/7d2dd305-0cb0-4552-b43e-c78e7c0873f6.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:37:48.025Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    },
+    {
+      "id": "product-032",
+      "sourceId": "51ea7a28a6fe",
+      "slug": "футболка-майка-stussy-saw-recordings-nike-adidas-carhartt-dickies-cort-product-032",
+      "sourceUrl": "https://www.kufar.by/item/1026334799",
+      "pageUrlAtCollection": "https://www.kufar.by/item/1026334799",
+      "title": "Футболка Майка Stussy Saw Recordings (Nike, adidas, Carhartt, dickies, Cortez, manto, vetements, ACG",
+      "price": {
+        "amount": 25,
+        "currency": "BYN",
+        "raw": "25 р."
+      },
+      "size": [
+        "44 (XS)",
+        "46 (S)",
+        "48 (M)",
+        "50 (L)",
+        "52 (XL)",
+        "52-54 (XXL)"
+      ],
+      "colors": [],
+      "description": "Летняя распродажа!!!Футболка высокого качества с идентичным принтом бренда Stussy. Изделие выполнено из 100% хлопка, мягкое , легкое и приятное к телу. Качественно прорисованный и стойкий графический принт создает лаконичный акцент. Отличный выбор для образов на каждый день. Подписывайтесь на наши соц. сети (ссылки в шапке профиля), там мы проводим регулярные акции, конкурсы и многое другое. Постоянным клиентам делаем скидки. Смотрите в профиле другие объявления.",
+      "category": {
+        "id": "t-shirts",
+        "label": "Футболки и майки",
+        "source": "inferred-from-listing-text"
+      },
+      "sourceCategory": null,
+      "breadcrumbs": [],
+      "images": [
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/381638d1-28e0-487d-94df-839e9185bcce.jpg",
+          "localPath": "images/product-032/01.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 25951
+        },
+        {
+          "sourceUrl": "https://rms.kufar.by/v1/gallery/adim1/be1964a9-989c-413f-8599-e8642a7d6da4.jpg",
+          "localPath": "images/product-032/02.jpg",
+          "contentType": "image/jpeg",
+          "bytes": 39011
+        }
+      ],
+      "imageDownloadFailures": [],
+      "sourceImageUrls": [
+        "https://rms.kufar.by/v1/gallery/adim1/381638d1-28e0-487d-94df-839e9185bcce.jpg",
+        "https://rms.kufar.by/v1/gallery/adim1/be1964a9-989c-413f-8599-e8642a7d6da4.jpg"
+      ],
+      "collectedAt": "2026-11-07T20:37:54.929Z",
+      "collectionMode": "automatic",
+      "extractedFrom": {
+        "jsonLdProduct": false,
+        "canonical": true
+      }
+    }
+  ]
+}

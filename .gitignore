@@ -1,0 +1,8 @@
+node_modules/
+.next/
+work/
+*-report.json
+AGENTS.md
+.env*
+.vercel/
+*.tsbuildinfo
