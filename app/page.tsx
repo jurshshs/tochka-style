@@ -19,11 +19,11 @@ export default function Home() {
       <section className="hero">
         <div className="hero-art">
           <Image
-            src={photo(all[8])}
-            alt="Пуховик Polo Ralph Lauren"
+            src="/images/product-001/03.jpg"
+            alt="Крупный план чёрной куртки Nike Storm-FIT"
             fill
             priority
-            sizes="65vw"
+            sizes="(max-width: 700px) 100vw, 66vw"
           />
         </div>
         <div className="hero-copy">
