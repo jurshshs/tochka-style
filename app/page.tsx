@@ -19,11 +19,11 @@ export default function Home() {
       <section className="hero">
         <div className="hero-art">
           <Image
-            src="/images/product-001/03.jpg"
-            alt="Крупный план чёрной куртки Nike Storm-FIT"
+            src="/hero/wet-black-puffer.png"
+            alt="Мокрый чёрный пуховик в студийном свете"
             fill
             priority
-            sizes="(max-width: 700px) 100vw, 66vw"
+            sizes="100vw"
           />
         </div>
         <div className="hero-copy">

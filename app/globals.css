@@ -102,8 +102,9 @@ nav {
 .hero-art {
   position: absolute;
   top: 0;
+  left: 0;
   right: 0;
-  width: 66%;
+  width: 100%;
   height: calc(100% - var(--hero-bottom-height));
   overflow: hidden;
   animation: hero-art-reveal 900ms cubic-bezier(0.22, 1, 0.36, 1) both;
@@ -112,17 +113,14 @@ nav {
   width: 100% !important;
   height: 100% !important;
   object-fit: cover;
-  object-position: 54% 44%;
-  transform: scale(1.08);
-  filter: brightness(0.52) contrast(1.14) saturate(0.72);
+  object-position: 50% 50%;
+  filter: brightness(0.88) contrast(1.06);
 }
 .hero:after {
   content: "";
   position: absolute;
   inset: 0;
-  background:
-    radial-gradient(circle at 76% 24%, rgba(255, 255, 255, 0.07), transparent 30%),
-    linear-gradient(90deg, #080808 8%, #080808 30%, rgba(8, 8, 8, 0.92) 42%, rgba(8, 8, 8, 0.42) 62%, transparent 88%);
+  background: linear-gradient(90deg, #080808 0%, rgba(8, 8, 8, 0.96) 24%, rgba(8, 8, 8, 0.62) 44%, rgba(8, 8, 8, 0.16) 66%, transparent 84%);
   pointer-events: none;
 }
 .hero-copy {
@@ -609,14 +607,13 @@ aside .button {
     width: 100%;
   }
   .hero-art img {
-    object-position: 54% 40%;
-    transform: scale(1.28);
-    filter: brightness(0.36) contrast(1.14) saturate(0.68);
+    object-position: 68% 50%;
+    filter: brightness(0.72) contrast(1.05);
   }
   .hero:after {
     background:
-      linear-gradient(90deg, rgba(8, 8, 8, 0.92) 0%, rgba(8, 8, 8, 0.65) 60%, rgba(8, 8, 8, 0.3) 100%),
-      linear-gradient(0deg, #080808 0%, transparent 46%);
+      linear-gradient(90deg, rgba(8, 8, 8, 0.92) 0%, rgba(8, 8, 8, 0.72) 54%, rgba(8, 8, 8, 0.28) 100%),
+      linear-gradient(0deg, #080808 0%, transparent 38%);
   }
   .hero-copy {
     padding: 65px 6vw;
