@@ -189,6 +189,20 @@ h2 {
   transform: translateY(-2px);
   background: #f0ff94;
 }
+.arrow-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+.arrow-link svg {
+  flex: 0 0 auto;
+  color: currentColor;
+  stroke: currentColor;
+}
+.button.arrow-link {
+  padding-left: 23px;
+  padding-right: 23px;
+}
 .hero-bottom {
   position: absolute;
   bottom: 0;

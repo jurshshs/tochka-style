@@ -165,7 +165,10 @@ export function Shell({ children }: { children: React.ReactNode }) {
             />
           </Link>
           <p>Твой стиль. Твои правила.</p>
-          <Link href="/catalog">Каталог ↗</Link>
+          <Link className="arrow-link" href="/catalog">
+            Каталог
+            <ArrowUpRight aria-hidden="true" size={16} />
+          </Link>
           <small>Демонстрационная витрина · 2026</small>
         </footer>
         {toast && (
@@ -263,8 +266,9 @@ function Card({ p }: { p: Product }) {
         </Link>
         <p className="price">{money(p.price.amount)}</p>
         {p.size.length ? (
-          <Link className="outline" href={"/product/" + p.slug}>
-            Выбрать размер ↗
+          <Link className="outline arrow-link" href={"/product/" + p.slug}>
+            Выбрать размер
+            <ArrowUpRight aria-hidden="true" size={16} />
           </Link>
         ) : (
           <button className="outline" onClick={() => c.add(p, "")}>
@@ -445,8 +449,9 @@ export function Detail({ product: p }: { product: Product }) {
           <p className="description">
             {p.description || "Описание отсутствует."}
           </p>
-          <a href={p.sourceUrl} target="_blank" rel="noreferrer">
-            Исходное объявление ↗
+          <a className="arrow-link" href={p.sourceUrl} target="_blank" rel="noreferrer">
+            Исходное объявление
+            <ArrowUpRight aria-hidden="true" size={16} />
           </a>
         </div>
       </div>

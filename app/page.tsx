@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { ArrowUpRight } from "lucide-react";
 import { getProducts, getHotPicks, getCategories, photo } from "../lib/catalog";
 import { Grid } from "../components/store";
 export default function Home() {
@@ -40,8 +41,9 @@ export default function Home() {
             <br />
             Вещи с характером для ритма города.
           </p>
-          <Link className="button" href="/catalog">
-            СМОТРЕТЬ КАТАЛОГ ↗
+          <Link className="button arrow-link" href="/catalog">
+            СМОТРЕТЬ КАТАЛОГ
+            <ArrowUpRight aria-hidden="true" size={16} />
           </Link>
         </div>
         <div className="hero-bottom">
@@ -67,8 +69,9 @@ export default function Home() {
           <br />
           СВОЙ РИТМ.
         </h2>
-        <Link className="button" href="/about">
-          О ПРОЕКТЕ ↗
+        <Link className="button arrow-link" href="/about">
+          О ПРОЕКТЕ
+          <ArrowUpRight aria-hidden="true" size={16} />
         </Link>
       </section>
       <section className="section" id="categories">
@@ -78,7 +81,10 @@ export default function Home() {
             <h2>ВЫБЕРИ СВОЁ</h2>
             <p className="category-subtitle">Основные категории нашего ассортимента</p>
           </div>
-          <Link href="/catalog">Весь каталог ↗</Link>
+          <Link className="arrow-link" href="/catalog">
+            Весь каталог
+            <ArrowUpRight aria-hidden="true" size={16} />
+          </Link>
         </div>
         <div className="categories">
           {getCategories().map((c) => (
@@ -93,7 +99,9 @@ export default function Home() {
                 <h3>{c.label}</h3>
                 <small>{productCount(all.filter((p) => p.category.id === c.id).length)}</small>
               </div>
-              <span className="category-arrow" aria-hidden="true">↗</span>
+              <span className="category-arrow" aria-hidden="true">
+                <ArrowUpRight size={18} />
+              </span>
             </Link>
           ))}
         </div>
